@@ -88,6 +88,10 @@ Compared EV scooter brands based on sales and units sold.
 
 Analyzed monthly sales and unit trends to understand changes in performance over time.
 
+## Dashboard Preview
+
+![EV Scooter Sales Dashboard](dashboard.png)
+
 ## Excel Skills Demonstrated
 
 * Data cleaning
