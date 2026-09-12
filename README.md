@@ -90,7 +90,7 @@ Analyzed monthly sales and unit trends to understand changes in performance over
 
 ## Dashboard Preview
 
-![EV Scooter Sales Dashboard](dashboard.png)
+![EV_Scooter_Sales_Dashboard.png](EV_Scooter_Sales_Dashboard.png)
 
 ## Excel Skills Demonstrated
 
